@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+networkx
+python-Levenshtein
+torch
+tqdm
+fastapi
+uvicorn
+pyarrow
